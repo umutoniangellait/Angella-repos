@@ -6,6 +6,18 @@
     <title>Document</title>
 </head>
 <body>
-    
+
 </body>
 </html>
+<?php
+$a = 12;
+$a = 20;
+function names()
+{
+    echo " Jackson";
+}
+function names()
+{
+    echo "Angela";
+}
+?>
