@@ -16,7 +16,7 @@ function names()
 {
     echo " Jackson";
 }
-function names()
+function name()
 {
     echo "Angela";
 }
